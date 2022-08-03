@@ -8,6 +8,6 @@ This project was made by using:
 - JavaScript
 - [API](https://github.com/cvines528/mass-effect-api)
 
-The application is adapted to any device screen because of using `calc()` and `@media`
+The application is adapted to any device screen ( using `calc()` and `@media` )
 
-**NOTE** *Some images may not load. This is not due to an error in my code. The problem occured by [API](https://github.com/cvines528/mass-effect-api) itself*
+**NOTE** *Some images may not load. This is not due to an error in my code. The problem occures on [API](https://github.com/cvines528/mass-effect-api) itself*
